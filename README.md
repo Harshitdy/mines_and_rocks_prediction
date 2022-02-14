@@ -3,8 +3,6 @@
 Predict Rock vs. Metal Mine underwater Using Sonar Signals Using Supervised Machine Learning Algorithm.
 ![](images/rocks_mines.png)
 
->hi how are you bro
-
 ### Installation:
 
 To run this notebook interactively:
